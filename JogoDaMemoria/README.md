@@ -5,4 +5,4 @@ Este projeto usa uma arquitetura MVC (model view controller).
 
 Veja o jogo em funcionamento:
 
-![Prévia do Jogo da Memória](JogoDaMemoria/video-jogo-memoria.gif)
+![Prévia do Jogo da Memória]([JogoDaMemoria/video-jogo-memoria.gif](https://github.com/nuno1alves/java-projects/blob/62bf6bb1e6d9deaeed7817ca477c0052702d0b94/JogoDaMemoria/video-jogo-memoria.gif))
